@@ -1,0 +1,24 @@
+0 Grizzly Beer
+1 Hyena Hond
+2 Koala
+3 Witte neushoorn
+4 Maki
+5 Hamerhaai
+6 Gorilla
+7 Orang Oetan
+8 Ijsbeer
+9 Tijger
+10 Alpaca
+11 Arend
+12 Blauwe Vinvis
+13 Dodo
+14 ET
+15 Great White Shark
+16 Jabba
+17 Leeuw
+18 Macaw
+19 Mens
+20 Panda
+21 Papegaai
+22 Kleine Panda
+23 Schildpad
